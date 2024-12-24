@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "oagZgkiLhtmJV7rUOf1cDvjsMf+0TnC2Ra+PyMsQLIs=",
+  "Source": "MedicalClinicFinalProject",
+  "BasePath": "_content/MedicalClinicFinalProject",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MedicalClinicFinalProject\\wwwroot",
+      "Source": "MedicalClinicFinalProject",
+      "ContentRoot": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\wwwroot\\",
+      "BasePath": "_content/MedicalClinicFinalProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

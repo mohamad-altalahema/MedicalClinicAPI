@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\comments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\appointments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\medicalrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\doctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\models\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|d:\\palsofttrain\\medicalclinicfinalproject\\medicalclinicfinalproject\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5577D09-9D64-4F49-B173-B5232924E110}|MedicalClinicFinalProject\\MedicalClinicFinalProject.csproj|solutionrelative:medicalclinicfinalproject\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Migrations\\AppDBContextModelSnapshot.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Migrations\\AppDBContextModelSnapshot.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:46:07.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T12:44:44.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\appsettings.json",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\appsettings.json",
+              "RelativeToolTip": "MedicalClinicFinalProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T16:50:40.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Program.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Program.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:01:56.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\AppDBContext.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\AppDBContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:41.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Appointments.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Appointments.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Appointments.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Appointments.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Appointments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Billing.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Billing.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Billing.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Billing.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Billing.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:27.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comments.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Comments.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Comments.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Comments.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Comments.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:24.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Repository\\IRepository.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:54:41.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MedicalRecords.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\MedicalRecords.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\MedicalRecords.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\MedicalRecords.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\MedicalRecords.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:27:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Doctors.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Doctors.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Doctors.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Doctors.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Doctors.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:21:55.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Patients.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Patients.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Models\\Patients.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Models\\Patients.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Models\\Patients.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:21:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T09:54:05.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "MedicalClinicFinalProject\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\PalsoftTrain\\MedicalClinicFinalProject\\MedicalClinicFinalProject\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "MedicalClinicFinalProject\\Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T17:14:09.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@MedicalClinicFinalProject_HostAddress = http://localhost:5196
+
+GET {{MedicalClinicFinalProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
